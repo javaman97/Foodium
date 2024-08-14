@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Title 1",
+    "body": "Body 1",
+    "imageUrl": "Image URL 1",
+    "author": "Shreyas Patil"
+  },
+  {
+    "id": 2,
+    "title": "Title 2",
+    "body": "Body 2",
+    "imageUrl": "Image URL 2",
+    "author": "Doe John"
+  },
+  {
+    "id": 3,
+    "title": "Title 3",
+    "body": "Body 3",
+    "imageUrl": "Image URL 3",
+    "author": "Aman Nishad"
+  }
+]
